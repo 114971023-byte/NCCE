@@ -8,7 +8,7 @@ import sys
 # ******************************************************
 # 建議使用環境變數: os.environ.get("OPENAI_API_KEY", "YOUR_API_KEY")
 # 為了方便執行，這裡直接將 Key 設置為變數值
-API_KEY = "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"
+API_KEY = "真實 Key 已移除"
 MODEL = "gpt-4o"
 
 def get_openai_client(api_key):

@@ -1,0 +1,8 @@
+{
+    "similarity_tfidf_time": "0.0385",
+    "similarity_ai_time": "0.5471",
+    "classification_rule_time": "0.0162",
+    "classification_ai_time": "4.9029",
+    "summary_statistical_time": "0.0373",
+    "summary_ai_time": "0.6507"
+}
